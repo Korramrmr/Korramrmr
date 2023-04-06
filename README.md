@@ -1,9 +1,8 @@
 <h1 align="center"> 🌸 🌸 🌸</h1>
-<i> Oh, hi Mark </i> 👋
+<p align="right"> <i> Oh, hi Mark </i> 👋 <p/>
 
- I am constantly learning in programming. I hope to become skilled someday :)
+<p align="center"> I am constantly learning in programming. I hope to become skilled someday :) </p>
 
-<h2 align="center"> 🌸 🌸 🌸</h2>
 
 <!--
 **Korramrmr/Korramrmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
